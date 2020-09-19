@@ -1,4 +1,4 @@
 .log
-/music
-!/music/mp3
-!/music/flac
+/music/*
+!/music/mp3/
+!/music/flac/
